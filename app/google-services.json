@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754876296218",
+    "project_id": "connection-b2347",
+    "storage_bucket": "connection-b2347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754876296218:android:80b98599d274ca2b5af5a3",
+        "android_client_info": {
+          "package_name": "com.n.connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_FutWZc-0kulezrBtPdC6HgEZvdTlyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
